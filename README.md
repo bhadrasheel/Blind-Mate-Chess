@@ -1,4 +1,4 @@
-# Chess-with-Gestures
+# Blind-Mate-Chess
 Empowering Blind Players with Gesture-Controlled Online Chess
 
 <div align="justify">
